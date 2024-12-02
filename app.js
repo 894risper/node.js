@@ -6,3 +6,7 @@ else{
   console.log("large number")  
 }
 console.log("hey my first node program")
+
+setInterval(()=>{
+    console.log("hello world")
+},1000)
